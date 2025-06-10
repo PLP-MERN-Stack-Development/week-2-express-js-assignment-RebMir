@@ -152,7 +152,6 @@ GET /api/products/1234-abcd
 {
   "id": "1234-abcd",
   "name": "Updated Product Name",
-  ...
 }
 ```
 
